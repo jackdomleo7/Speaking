@@ -46,8 +46,8 @@ I am always grateful to organisers who ask me to participate! I always ask for a
 
 - As long as I am told beforehand, I am fine being recorded. Just be sure to get my best side! 😉
 - I guarantee that everything I do is rated "PG" with no swearing or inappropriate/explicit remarks.
-- I own all of my talks. All my talks are stored within [this repository](https://github.com/jackdomleo7/Talks). I can either create a new talk for your event, or reuse one of my previous talks - your choice.
-- All talks within the [Event Specific Talks](https://github.com/jackdomleo7/Talks/tree/main/Event%20Specific%20Talks) folder are joint own between myself and the event organisers and therefore cannot be reused.
+- I own all of my talks. All my talks are stored within [this repository](https://github.com/jackdomleo7/Speaking). I can either create a new talk for your event, or reuse one of my previous talks - your choice.
+- All talks within the [Event Specific Talks](https://github.com/jackdomleo7/Speaking/tree/main/Event%20Specific%20Talks) folder are joint own between myself and the event organisers and therefore cannot be reused.
 
 ### Extra
 
