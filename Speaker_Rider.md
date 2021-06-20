@@ -9,13 +9,13 @@ I am always grateful to organisers who ask me to participate! I always ask for a
 ### Speaker honorarium
 
 - I ask for a speaker fee because I value my time (and hope you do too). Preparing talks requires time and effort that I have to take out of my day.
-- For non-profit events, I may choose to waive this based on ticket pricing, scholarship programs, etc.
+- For non-profit events, I may choose to waive this based on ticket pricing, scholarship programs, charity, etc. but please tell me in Advance if you fit this category.
 - I won't specify a fee figure here, so make an offer (preferably converted to £GBP if possible) and we can negotiate. I may accept other benefits as a form of payment, however this is entirely dependent (I don't accept "exposure" as a fee).
 
 ### Travel
 
 - I am currently in no position to travel anywhere outside of the East Midlands, UK (I am currently based in [Nottinghamshire, UK](https://www.google.com/maps/place/Nottinghamshire/@53.1456059,-1.2855997,10z/data=!3m1!4b1!4m5!3m4!1s0x487832d2390779cd:0x54afc970e5ef2912!8m2!3d53.100319!4d-0.9936306) - East Midlands includes Nottingham, Derby and Leicester) for in-person events.
-- I ask for parking details as it's likely I will be driving and I ask that miles/fuel and parking fees are reimbursed.
+- I will ask for parking details as it's likely I will be driving and I ask that miles/fuel and parking fees are reimbursed.
 - I may travel anywhere in the UK if I am able to, however this is entirely dependent on the situation.
 
 ### Lodging
@@ -33,8 +33,8 @@ I am always grateful to organisers who ask me to participate! I always ask for a
 
 ### Speech impediment
 
-- I have a lifelong stammer. I do not require any special accommodation for my speech impediment, not do I want to be treated any differently. During my speech therapy sessions, I regularly practice techniques to help me _stutter more fluently_.
-- If required, I will notify the audience at the beginning of a talk of my speech impediment.
+- I have a lifelong stammer. I do not require any special accommodation for my speech impediment, nor do I want to be treated any differently. During my speech therapy sessions, I regularly practice techniques to help me _stutter more fluently_.
+- If required, I will notify the audience at the beginning of a talk about my speech impediment.
 
 ## Logistics
 
@@ -47,7 +47,7 @@ I am always grateful to organisers who ask me to participate! I always ask for a
 - As long as I am told beforehand, I am fine being recorded. Just be sure to get my best side! 😉
 - I guarantee that everything I do is rated "PG" with no swearing or inappropriate/explicit remarks.
 - I own all of my talks. All my talks are stored within [this repository](https://github.com/jackdomleo7/Speaking). I can either create a new talk for your event, or reuse one of my previous talks - your choice.
-- All talks within the [Event Specific Talks](https://github.com/jackdomleo7/Speaking/tree/main/Event%20Specific%20Talks) folder are joint own between myself and the event organisers and therefore cannot be reused.
+- All talks within the [Event Specific Talks](https://github.com/jackdomleo7/Speaking/tree/main/Event%20Specific%20Talks) folder are joint owned between myself and the event organisers and therefore cannot be reused.
 
 ### Extra
 
@@ -57,7 +57,7 @@ I am always grateful to organisers who ask me to participate! I always ask for a
 
 If I decline, please do not be offended, as there could be various reasons (I may or may not decide to share my decline reason), here are some reasons:
 
-- I don't have the time. I work full-time and have a life, so may not have time to create a talk or give the talk.
+- I don't have the time. I work full-time and have a life, so may not have time to create a talk or give the talk. Anything I do outside of my full-time job is entirely separate to work and is considered my spare-time, so I may not always be able to commit.
 - The event may not align with my goals or expertise.
 - The talk asked of me may not be in my area of my expertise.
 - The event may be too political for me to want to be a part of.
