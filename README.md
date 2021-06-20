@@ -8,4 +8,4 @@ But I also enjoy be interviewed.
 
 Check out all my [interviews](./interviews.md).
 
-Check out my [speaker rider](./Speaker_Rider.md) if you'd like me to speak at your event!
+Check out my [speaker rider](./Speaker_Rider.md) if you'd like to interview me or for me to speak at your event!
